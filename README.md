@@ -11,9 +11,12 @@ Permite realizar operaciones de **suma, resta, multiplicación y división**.
 ```bash
 git clone https://github.com/AlexisM593/CalculadoraBasica.git
 cd CalculadoraBasica
-
+```
 ### 2 Compilar el programa
+```bash
 gcc calculadora.c -o calculadora
-
+```
 ### 3 Ejecutar la calculadora
+```bash
 ./calculadora
+```
